@@ -1,0 +1,22 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.pok{
+  width: 100%;
+  
+}
+.poke-gallery{
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  gap: 5px;
+}
+.pokemon{
+  width: 100%;
+  border: 1px solid black;
+
+}
+.img{
+  width: 100%;
+}
